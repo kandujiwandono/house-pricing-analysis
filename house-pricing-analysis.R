@@ -7,7 +7,3 @@ df_test <- read_csv("data/test.csv")
 glimpse(df_train)
 glimpse(df_test)
 
-summary(df_train)
-print('Habib Rizieq')
-print('FPI Berjayalah')
-print("petamburan anti covid 19")
