@@ -9,3 +9,4 @@ glimpse(df_test)
 
 print('Habib Rizieq')
 print('a')
+summary(df_train)
