@@ -9,3 +9,5 @@ glimpse(df_test)
 
 summary(df_train)
 print('Habib Rizieq')
+print('FPI Berjayalah')
+print("petamburan anti covid 19")
